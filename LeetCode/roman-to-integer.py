@@ -19,3 +19,6 @@ class Solution:
                 total += values[s[i]]
 
         return total
+
+
+
